@@ -1,4 +1,4 @@
-package com.quangng.pizzamenu;
+package Decorator.PizzaMenu;
 
 public class Jalapeno extends ToppingDecorator {
 
